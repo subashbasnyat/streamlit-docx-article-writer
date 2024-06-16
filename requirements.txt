@@ -1,0 +1,6 @@
+langchain-core
+langchain-community
+langchain-nvidia-ai-endpoints
+streamlit
+python-docx
+loguru
